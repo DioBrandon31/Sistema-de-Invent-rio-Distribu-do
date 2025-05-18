@@ -1,2 +1,2 @@
-# Sistema-de-Invent-rio-Distribu-do
+# Sistema-de-Inventario-Distribuido
 Projeto Aps desenvolvimento de aplicações distribuídas
